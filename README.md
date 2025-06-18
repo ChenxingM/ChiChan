@@ -1,7 +1,8 @@
-# 小千压 (ChiyaChan)
+# 小千压 ( ちやちゃん ChiyaChan )
 
 <div align="center">
   <img src="imgs/icon.png" alt="小千压" width="128">
+  <img src="imgs/title.png" alt="小千压title" width="256">
   
   **基于 FFmpeg 的媒体处理工具**
   
@@ -63,6 +64,7 @@
 - 某些特殊编码可能无法正确识别
 - 批处理大量文件时可能卡顿
 - AI 功能需要稳定的网络连接
+- 可能还存在其他未发现的 bug
 
 ## 📝 更新日志
 

@@ -6,7 +6,7 @@
   
   **基于 FFmpeg 的媒体处理工具**
   
-  [![Release](https://img.shields.io/badge/Release-Alpha-orange.svg)](https://github.com/你的仓库/releases)
+  [![Release](https://img.shields.io/badge/Release-Alpha-orange.svg)]([https://github.com/ChenxingM/ChiyaChan-Releases/releases])
   [![FFmpeg](https://img.shields.io/badge/FFmpeg-Required-red.svg)](https://ffmpeg.org)
 </div>
 
